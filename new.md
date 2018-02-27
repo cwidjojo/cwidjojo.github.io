@@ -11,11 +11,22 @@
 <p> Here are some things that I like: </p>
 <ul>
   <li>Music
+    <ul>
+      <li>Jazz
+      <li>Electronic
+      <li>Deep House
+    </ul>
   <li>Food
+    <ul>
+      <li>Indonesian
+      <li>Japanese
+      <li>American
+      </ul>
   <li>Games
     <ul>
-      <li>Mobile
       <li>PC
+      <li>Console
+      <li>Mobile
     </ul>
   </ul>
 </body>

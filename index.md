@@ -16,12 +16,14 @@
       <li>Electronic
       <li>Deep House
     </ul>
+    <br />
   <li>Food
     <ul>
       <li>Indonesian
       <li>Japanese
       <li>American
       </ul>
+      <br />
   <li>Games
     <ul>
       <li>PC

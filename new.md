@@ -2,12 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Hi this is my first website</h1>
+<h1>My First Website</h1>
 </head>
 <body>
-<h3> <i>I am Chris</i> </h3>
-<p> These are the things that I like: </p>
+<h3> <i>Hi, my name is Chris</i> </h3>
+<br />
+<p> Here are some things that I like: </p>
 <ul>
+  <li>Music
   <li>Food
   <li>Games
     <ul>
